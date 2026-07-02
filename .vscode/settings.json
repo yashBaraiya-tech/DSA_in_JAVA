@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "3. loops",
         "2. if else",
         "1. Basic",
-        "3. loops"
+        "4. pattern"
     ]
 }
