@@ -1,12 +1,13 @@
 {
     "java.project.sourcePaths": [
         "Array",
+        "7. Time & Space compexity",
         "6. Arrays",
         "5. Methods",
         "4. pattern",
         "3. loops",
         "2. if else",
         "1. Basic",
-        "7. Time & Space compexity"
+        "8. Sorting (Bubble, Selection, Insertion)"
     ]
 }
