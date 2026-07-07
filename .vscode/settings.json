@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Array",
+        "9. Binary Search",
         "8. Sorting (Bubble, Selection, Insertion)",
         "7. Time & Space compexity",
         "6. Arrays",
@@ -9,6 +10,6 @@
         "3. loops",
         "2. if else",
         "1. Basic",
-        "9. Binary Search"
+        "10. String"
     ]
 }
