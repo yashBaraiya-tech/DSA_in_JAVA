@@ -23,7 +23,7 @@ public class MergeArray {
         }
 
         while (j < b.length) {
-            c[k] = a[j];
+            c[k] = b[j];
             j++;
             k++;
         }
